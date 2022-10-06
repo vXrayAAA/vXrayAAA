@@ -1,0 +1,6 @@
+- Hello, friend!
+- Eletroeletrônica
+- Embarcados
+- basic_hacking
+- Aprendendo o básico de diversas linguagens de programação 
+- fsociety 
