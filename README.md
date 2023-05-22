@@ -1,5 +1,5 @@
 
-Construindo um Império.
+Я БУДУ ПРАВИТЬ МИРОМ.
 
 
 ## 🌐 Socials:
