@@ -8,7 +8,7 @@
 # 💻 Linguagens de Programação:
 <div align=left>
    <img src="https://img.shields.io/badge/esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <br>
+  
   </div>
 
 
